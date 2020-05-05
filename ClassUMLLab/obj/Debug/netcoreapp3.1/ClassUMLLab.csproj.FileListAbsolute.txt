@@ -1,0 +1,13 @@
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.exe
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.deps.json
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.runtimeconfig.json
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.runtimeconfig.dev.json
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.dll
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\bin\Debug\netcoreapp3.1\ClassUMLLab.pdb
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.csprojAssemblyReference.cache
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.csproj.CoreCompileInputs.cache
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.AssemblyInfoInputs.cache
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.AssemblyInfo.cs
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.dll
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.pdb
+C:\Users\Winderps\source\repos\ClassUMLLab\ClassUMLLab\obj\Debug\netcoreapp3.1\ClassUMLLab.genruntimeconfig.cache
